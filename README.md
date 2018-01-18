@@ -1,6 +1,8 @@
 # Project_0
 Learn to use github
-New line added.
+
 将本地文件同步到GitHub服务器的方法：
-1. 在cmd中进入当前Repository目录中
-2. 
+1. 在本地修改文件
+2. 在GitHub中Current Repository的左下角写上Summary和Description之后点击Commit to XXX
+3. 在菜单栏选择Repository->Push
+4. 同步完成
